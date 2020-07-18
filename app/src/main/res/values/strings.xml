@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Copiator Tajabara</string>
+    <string name="tv_solicitacaodados">Insira os dados abaixo</string>
+    <string name="ed_nomepaciente">Nome</string>
+    <string name="ed_dataconsulta">Informe a data - DD/MM/AAAA</string>
+    <string name="ed_horainicio">Horario de inicio - HH:MM</string>
+    <string name="ed_horafim">Horario de fim - HH:MM</string>
+    <string name="tv_tipoarquivo">Informe qual tipo de arquivo</string>
+    <string-array name="sp_tipoarquivo">
+        <item>.jpg</item>
+        <item>.jpeg</item>
+        <item>.bmp</item>
+        <item>.png</item>
+        <item>.gif</item>
+    </string-array>
+    <string name="tv_localescaneamento">Informe onde estão os arquivos. Apenas memoria interna</string>
+    <string name="tv_status">Status: Parado</string>
+    <string name="tv_estatistica"></string>
+    <string name="tv_infolocal">Seus arquvos serão salvos em..</string>
+    <string name="tv_local">interno</string>
+    <string name="bt_copia">Copiar</string>
+</resources>
